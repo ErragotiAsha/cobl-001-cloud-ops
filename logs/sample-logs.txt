@@ -1,0 +1,2 @@
+GovernanceViolation: test.txt missing mandatory tags
+ComplianceChecked: test2.txt passed all checks
